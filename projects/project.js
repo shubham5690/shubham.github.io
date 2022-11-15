@@ -5,8 +5,11 @@ const Projects = [
         name : "Clone of bewakoof",
         about: "Bewakoof is an Online Shopping site for Men and Women's Clothing. Shop from a wide range of T-shirts ,Mobile Covers,Accessories, and more at the best prices.",
         
+        // a:"https://shubham5690.github.io/Individual-Project/",
         img : "images/bewakoof.png",
-        
+        gitrepo:"https://github.com/shubham5690/Individual-Project",
+
+        project_link:"https://shubham5690.github.io/Individual-Project/",
         tech_stack : "HTML | CSS | JAVASCRIPT | API's",
         tech_stackicons : [
             `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
@@ -22,9 +25,31 @@ const Projects = [
     
     {
         name : "Clone of PluralSlight",
-        about : "Pluralsight, Inc. is an American privately held online education company that offers a variety of video training courses for software developers, IT administrators, and creative professionals through its website - Java Script, Html, CSS, Bootstrap and API",
+        about : "Pluralsight, Inc. is an American privately held online education company that offers a variety of video training courses for software developers, IT administrators, and creative professionals through its website - Java Script, Html, CSS, Bootstrap and API.",
         img : "images/Disney.png",
+        gitrepo:"https://github.com/shubham5690/Pluralsight-Clone",
+        project_link:"https://pluralsightproject.netlify.app/",
+        tech_stack : "HTML | CSS | JAVASCRIPT | API's",
+        tech_stackicons : [
+            `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
+            `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
+            `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
+            `<img src="https://img.icons8.com/nolan/64/api-settings.png" width="48px"/>`
+            
+        ],
         
+        category : ["all", "html"],
+
+    },
+    {
+        name : "Clone of CricInfo",
+        about: "ESPN cricinfo is a sports news website exclusively for the game of cricket The site features news, articles, live coverage of cricket matches, and StatsGuru, a database of historical matches and players from the 18th century to the present. As of March 2018, Sambit Bal was the editor.",
+        
+        // a:"https://shubham5690.github.io/Individual-Project/",
+        img : "images/cricInfo.png",
+        gitrepo:"https://github.com/shubham5690/CricInfo-Clone-1",
+
+        project_link:"https://a-clone-of-espncricinfo.netlify.app/",
         tech_stack : "HTML | CSS | JAVASCRIPT | API's",
         tech_stackicons : [
             `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
